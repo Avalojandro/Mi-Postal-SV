@@ -11,28 +11,33 @@ function App() {
     setTimeout(() => setCopiedCode(""), 2000);
   };
 
+  // Normalize string to remove accents/tildes
+  const normalize = (str) => {
+    return str
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .toLowerCase();
+  };
+
   // Filter data based on search term
   const filterData = () => {
     if (!searchTerm) return postalData;
 
+    const normalizedSearch = normalize(searchTerm);
     const filtered = {};
+
     Object.keys(postalData).forEach((department) => {
-      const departmentMatch = department
-        .toLowerCase()
-        .includes(searchTerm.toLowerCase());
+      const departmentMatch = normalize(department).includes(normalizedSearch);
       const filteredDistricts = {};
 
       Object.keys(postalData[department]).forEach((district) => {
-        const districtMatch = district
-          .toLowerCase()
-          .includes(searchTerm.toLowerCase());
+        const districtMatch = normalize(district).includes(normalizedSearch);
         const filteredMunicipalities = {};
 
         Object.keys(postalData[department][district]).forEach(
           (municipality) => {
-            const municipalityMatch = municipality
-              .toLowerCase()
-              .includes(searchTerm.toLowerCase());
+            const municipalityMatch =
+              normalize(municipality).includes(normalizedSearch);
             const codeMatch =
               postalData[department][district][municipality].includes(
                 searchTerm
