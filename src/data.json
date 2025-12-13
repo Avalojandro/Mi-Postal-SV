@@ -147,14 +147,12 @@
     },
     "San Salvador Norte": {
       "Aguilares": "01122",
-      "El Paisnal": "01124"
+      "El Paisnal": "01124",
+      "Guazapa": "01125"
     },
     "San Salvador Oeste": {
       "Apopa": "01123",
       "Nejapa": "01126"
-    },
-    "San Salvador Noret": {
-      "Guazapa": "01125"
     }
   },
   "La Libertad": {
