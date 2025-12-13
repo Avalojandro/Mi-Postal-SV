@@ -1,0 +1,383 @@
+{
+  "Ahuachapán": {
+    "Ahuachapán Centro": {
+      "Ahuachapán": "02101",
+      "Apaneca": "02102",
+      "Concepción de Ataco": "02106",
+      "Tacuba": "02117"
+    },
+    "Ahuachapán Norte": {
+      "Atiquizaya": "02103",
+      "El Refugio": "02107",
+      "San Lorenzo": "02115",
+      "Turín": "02118"
+    },
+    "Ahuachapán Sur": {
+      "Guaymango": "02108",
+      "Jujutla": "02109",
+      "San Francisco Menéndez": "02113",
+      "San Pedro Puxtla": "02116"
+    }
+  },
+  "Santa Ana": {
+    "Santa Ana Centro": {
+      "Santa Ana": "02201"
+    },
+    "Santa Ana Oeste": {
+      "Candelaria de la Frontera": "02203",
+      "Chalchuapa": "02205",
+      "El Porvenir": "02208",
+      "San Antonio Pajonal": "02212",
+      "San Sebastián Salitrillo": "02215",
+      "Santiago de la Frontera": "02217"
+    },
+    "Santa Ana Este": {
+      "Coatepeque": "02204",
+      "El Congo": "02207"
+    },
+    "Santa Ana Norte": {
+      "Masahuat": "02210",
+      "Metapán": "02211",
+      "Santa Rosa Guachipilín": "02216",
+      "Texistepeque": "02218"
+    }
+  },
+  "Sonsonate": {
+    "Sonsonate Centro": {
+      "Sonsonate": "02301",
+      "Nahulingo": "02312",
+      "San Antonio del Monte": "02314",
+      "Santo Domingo de Guzmán": "02319",
+      "Sonzacate": "02320"
+    },
+    "Sonsonate Oeste": {
+      "Acajutla": "02302"
+    },
+    "Sonsonate Este": {
+      "Armenia": "02303",
+      "Caluco": "02304",
+      "Cuisnahuat": "02305",
+      "Izalco": "02306",
+      "San Julián": "02316",
+      "Santa Isabel Ishuatán": "02318"
+    },
+    "Sonsonate Norte": {
+      "Juayúa": "02307",
+      "Nahuizalco": "02311",
+      "Salcoatitán": "02313",
+      "Santa Catarina Masahuat": "02317"
+    }
+  },
+  "Chalatenango": {
+    "Chalatenango Sur": {
+      "Chalatenango": "01301",
+      "Agua Caliente": "01302",
+      "Arcatao": "01303",
+      "Azacualpa": "01304",
+      "Concepción Quezaltepeque": "01308",
+      "El Carrizal": "01311",
+      "El Paraíso": "01312",
+      "La Laguna": "01313",
+      "La Reina": "01315",
+      "San José Las Flores": "01316",
+      "Las Vueltas": "01317",
+      "Nombre de Jesús": "01318",
+      "Nueva Trinidad": "01320",
+      "Ojos de Agua": "01321",
+      "Potonico": "01322",
+      "San Antonio de la Cruz": "01324",
+      "San Rafael": "01333",
+      "Santa Rita": "01334"
+    },
+    "Chalatenango Norte": {
+      "San José Cancasque": "01305",
+      "Citalá": "01306",
+      "La Palma": "01314",
+      "San Ignacio": "01329"
+    },
+    "Chalatenango Centro": {
+      "Comalapa": "01307",
+      "Dulce Nombre de María": "01309",
+      "Nueva Concepción": "01319",
+      "San Antonio Los Ranchos": "01325",
+      "San Fernando": "01326",
+      "San Francisco Lempa": "01327",
+      "San Francisco Morazán": "01328",
+      "San Isidro Labrador": "01330",
+      "San Luis del Carmen": "01331",
+      "San Miguel de Mercedes": "01332",
+      "Tejutla": "01335"
+    }
+  },
+  "Cabañas": {
+    "Cabañas Este": {
+      "Sensuntepeque": "01201",
+      "Guacotecti": "01203",
+      "San Isidro": "01207",
+      "Dolores / Villa Dolores": "01209",
+      "Victoria": "01201"
+    },
+    "Cabañas Oeste": {
+      "Cinquera": "01202",
+      "Ilobasco": "01204",
+      "Jutiapa": "01206",
+      "Tejutepeque": "01208"
+    }
+  },
+  "San Salvador": {
+    "San Salvador Centro": {
+      "San Salvador": "01101",
+      "Ciudad Delgado": "01118",
+      "Cuscatancingo": "01119",
+      "Mejicanos": "01120",
+      "Ayutuxtepeque": "01121"
+    },
+    "San Salvador Sur": {
+      "San Marcos": "01115",
+      "Panchimalco": "01127",
+      "Rosario de Mora": "01128",
+      "Santiago Texacuangos": "01130",
+      "Santo Tomás": "01131"
+    },
+    "San Salvador Este": {
+      "Soyapango": "01116",
+      "Ilopango": "01117",
+      "San Martín": "01129",
+      "Tonacatepeque": "01132"
+    },
+    "San Salvador Norte": {
+      "Aguilares": "01122",
+      "El Paisnal": "01124"
+    },
+    "San Salvador Oeste": {
+      "Apopa": "01123",
+      "Nejapa": "01126"
+    },
+    "San Salvador Noret": {
+      "Guazapa": "01125"
+    }
+  },
+  "La Libertad": {
+    "La Libertad Sur": {
+      "Santa Tecla": "01501",
+      "Comasagua": "01506"
+    },
+    "La Libertad Centro": {
+      "Antiguo Cuscatlán": "01502",
+      "Ciudad Arce": "01504",
+      "San Juan Opico": "01514"
+    },
+    "La Libertad Costa": {
+      "Chiltiupán": "01507",
+      "Jicalpa": "01510",
+      "La Libertad": "01511",
+      "Tamanique": "01522"
+    },
+    "La Libertad Este": {
+      "Huizúcar": "01508",
+      "Nuevo Cuscatlán": "01513",
+      "San José Villanueva": "01517",
+      "Zaragoza": "01525"
+    },
+    "La Libertad Oeste": {
+      "Jayaque": "01509",
+      "Colón": "01512",
+      "Sacacoyo": "01516",
+      "San Pablo Tacachico": "01519",
+      "Talnique": "01521",
+      "Teotepeque": "01523",
+      "Tepecoyo": "01524"
+    },
+    "La Libertad Norte": {
+      "Quezaltepeque": "01515",
+      "San Matías": "01518"
+    }
+  },
+  "Cuscatlán": {
+    "Cuscatlán Sur": {
+      "Cojutepeque": "01401",
+      "Candelaria": "01402",
+      "El Carmen": "01403",
+      "El Rosario": "01404",
+      "Monte San Juan": "01405",
+      "San Cristóbal": "01408",
+      "San Pedro Perulapán": "01410",
+      "San Rafael Cedros": "01411",
+      "San Ramón": "01412",
+      "Santa Cruz Analquito": "01413",
+      "Santa Cruz Michapa": "01414",
+      "Tenancingo": "01416"
+    },
+    "Cuscatlán Norte": {
+      "Oratorio de Concepción": "01406",
+      "San Bartolomé Perulapia": "01407",
+      "San José Guayabal": "01409",
+      "Suchitoto": "01415"
+    }
+  },
+  "La Paz": {
+    "La Paz Este": {
+      "Zacatecoluca": "01601",
+      "San Rafael Obrajuelo": "01620"
+    },
+    "La Paz Oeste": {
+      "Cuyultitán": "01603",
+      "Olocuilta": "01608",
+      "San Francisco Chinameca": "01612",
+      "San Juan Talpa": "01614",
+      "San Pedro Masahuat": "01618",
+      "Santiago Nonualco": "01623"
+    },
+    "La Paz Centro": {
+      "El Rosario": "01604",
+      "Jerusalén": "01605",
+      "San Luis La Herradura": "01606",
+      "Mercedes La Ceiba": "01607",
+      "Paraíso de Osorio": "01609",
+      "San Antonio Masahuat": "01610",
+      "San Emigdio": "01611",
+      "San Juan Tepezontes": "01615",
+      "San Luis Talpa": "01616",
+      "San Miguel Tepezontes": "01617",
+      "San Pedro Nonualco": "01619",
+      "Santa María Ostuma": "01621"
+    }
+  },
+  "San Vicente": {
+    "San Vicente": {
+      "San Vicente": "01701",
+      "Apastepeque": "01702",
+      "Guadalupe": "01703",
+      "San Cayetano Istepeque": "01704",
+      "Tecoluca": "01711",
+      "Tepetitán": "01712",
+      "Verapaz": "01713"
+    },
+    "San Sebastián": {
+      "San Esteban Catarina": "01705",
+      "San Ildefonso": "01706",
+      "San Lorenzo": "01707",
+      "San Sebastián": "01708",
+      "Santa Clara": "01709",
+      "Santo Domingo": "01710"
+    }
+  },
+  "Morazán": {
+    "San Francisco": {
+      "San Francisco Gotera": "03201",
+      "Chilanga": "03203",
+      "El Divisadero": "03207",
+      "Guatajiagua": "03210",
+      "Jocoro": "03213",
+      "Lolotiquillo": "03214",
+      "San Carlos": "03218",
+      "Sensembra": "03222",
+      "Sociedad": "03223",
+      "Yamabal": "03225"
+    },
+    "Jocoaitique": {
+      "Arambala": "03202",
+      "El Rosario": "03208",
+      "Joateca": "03211",
+      "Jocoaitique": "03212",
+      "Meanguera": "03215",
+      "Perquín": "03217",
+      "San Fernando": "03219",
+      "Torola": "03224"
+    },
+    "Osicala": {
+      "Corinto": "03204",
+      "Delicia de Concepción": "03206",
+      "Gualococti": "03209",
+      "Osicala": "03216",
+      "San Isidro": "03220",
+      "San Simón": "03221",
+      "Yoloaiquín": "03226"
+    }
+  },
+  "Usulután": {
+    "Usulután": {
+      "Usulután": "03401",
+      "Concepción Batres": "03405",
+      "Ereguayquín": "03407",
+      "Jiquilisco": "03409",
+      "Jucuarán": "03411",
+      "Ozatlán": "03415",
+      "Puerto El Triunfo": "03417",
+      "San Dionisio": "03420",
+      "Santa Elena": "03422",
+      "Santa María": "03423"
+    },
+    "Santiago de María": {
+      "Alegría": "03402",
+      "California": "03404",
+      "Santiago de María": "03424",
+      "Tecapán": "03426"
+    },
+    "Berlín": {
+      "Berlín": "03403",
+      "Mercedes Umaña": "03412",
+      "San Agustín": "03418",
+      "San Francisco Javier": "03421"
+    },
+    "Estanzuelas": {
+      "El Triunfo": "03406",
+      "Estanzuelas": "03408",
+      "Jucuapa": "03410",
+      "Nueva Granada": "03413",
+      "San Buenaventura": "03419"
+    }
+  },
+  "La Unión": {
+    "La Unión": {
+      "La Unión": "03101",
+      "Bolívar": "03105",
+      "Conchagua": "03107",
+      "El Carmen": "03108",
+      "Intipucá": "03111",
+      "Meanguera del Golfo": "03113",
+      "San Alejo": "03119",
+      "San José": "03120",
+      "Yayantique": "03122",
+      "Yucuaiquín": "03123"
+    },
+    "Santa Rosa de Lima": {
+      "Anamorós": "03104",
+      "Concepción de Oriente": "03106",
+      "El Sauce": "03109",
+      "Lislique": "03112",
+      "Nueva Esparta": "03114",
+      "Pasaquina": "03116",
+      "Polorós": "03117",
+      "Santa Rosa de Lima": "03121"
+    }
+  },
+  "San Miguel": {
+    "San Miguel": {
+      "San Miguel": "03301",
+      "Ciudad Barrios": "03303",
+      "Comacarán": "03304",
+      "Chapeltique": "03305",
+      "Chirilagua": "03307",
+      "Moncagua": "03312",
+      "Quelepa": "03315",
+      "Uluazapa": "03324"
+    },
+    "Sesori": {
+      "Carolina": "03302",
+      "Nuevo Edén de San Juan": "03314",
+      "San Antonio del Mosco": "03316",
+      "San Gerardo": "03318",
+      "San Luis de la Reina": "03320",
+      "Sesori": "03323"
+    },
+    "Chinameca": {
+      "Chinameca": "03306",
+      "El Tránsito": "03309",
+      "Lolotique": "03311",
+      "Nueva Guadalupe": "03313",
+      "San Jorge": "03319",
+      "San Rafael Oriente": "03322"
+    }
+  }
+}
